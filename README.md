@@ -1,5 +1,5 @@
 # AUTOMATED-REPORT-GENERATION
-COMPANY: CODTECH IT SOLUTIONS NAME: SATISH YADAV INTERN ID: CT08DH2104 DOMAINA: PYTHON DURATION: 4 WEEK MENTOR : NEELA SANTOSH
+COMPANY: CODTECH IT SOLUTIONS NAME: SATISH YADAV INTERN ID: CT08DH2104 DOMAINA: PYTHON DURATION: 8 WEEK MENTOR : NEELA SANTOSH
 
 Here’s a professional and clear README description for your GitHub project based on the uploaded script and weather plot:
 Here’s a ready-to-use **README.md** draft for your GitHub repository based on your uploaded files:
